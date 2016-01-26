@@ -1,0 +1,4 @@
+C:\Users\mashu\Desktop\EPAM\LabTask\LabTask2\CustomDoubleLinkedList\bin\Debug\CustomDoubleLinkedList.dll
+C:\Users\mashu\Desktop\EPAM\LabTask\LabTask2\CustomDoubleLinkedList\bin\Debug\CustomDoubleLinkedList.pdb
+C:\Users\mashu\Desktop\EPAM\LabTask\LabTask2\CustomDoubleLinkedList\obj\Debug\CustomDoubleLinkedList.dll
+C:\Users\mashu\Desktop\EPAM\LabTask\LabTask2\CustomDoubleLinkedList\obj\Debug\CustomDoubleLinkedList.pdb

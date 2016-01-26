@@ -1,0 +1,5 @@
+C:\Users\mashu\Desktop\EPAM\LabTask\LabTask1\CustomBinaryTree\bin\Debug\CustomBinaryTree.dll
+C:\Users\mashu\Desktop\EPAM\LabTask\LabTask1\CustomBinaryTree\bin\Debug\CustomBinaryTree.pdb
+C:\Users\mashu\Desktop\EPAM\LabTask\LabTask1\CustomBinaryTree\obj\Debug\CustomBinaryTree.dll
+C:\Users\mashu\Desktop\EPAM\LabTask\LabTask1\CustomBinaryTree\obj\Debug\CustomBinaryTree.pdb
+C:\Users\mashu\Desktop\EPAM\LabTask\LabTask1\CustomBinaryTree\obj\Debug\CustomBinaryTree.csprojResolveAssemblyReference.cache
